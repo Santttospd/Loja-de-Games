@@ -5,30 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login - E-commerce de Jogos</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            background: #091F4C;
-            color: #fff;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            font-family: 'Work Sans', sans-serif;
-        }
-
-        <!DOCTYPE html>
-        <html lang="pt-br">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Login - E-commerce de Jogos</title>
-            <style>
                 * {
                     margin: 0;
                     padding: 0;
@@ -36,7 +12,7 @@
                 }
 
                 body {
-                    background: #091F4C;
+                    background: whith;
                     color: #fff;
                     display: flex;
                     flex-direction: column;

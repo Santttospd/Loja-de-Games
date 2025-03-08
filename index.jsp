@@ -12,7 +12,7 @@
                 }
 
                 body {
-                    background: whith;
+                    background: #091F4C;
                     color: #fff;
                     display: flex;
                     flex-direction: column;
